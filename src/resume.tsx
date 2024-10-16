@@ -166,7 +166,7 @@ export function Experience() {
                             Developed and launched{" "}
                             <Link src="https://draftgap.com">DraftGap</Link>, a
                             site and desktop application for League of Legends
-                            players with 5k monthly active users. Uses SolidJS,
+                            players with 20k monthly active users. Uses SolidJS,
                             TypeScript, TailwindCSS and NodeJS.
                         </ListItem>
                     </SubSectionBody>
